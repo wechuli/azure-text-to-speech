@@ -1,0 +1,16 @@
+{
+  "name": "azure-text-to-speech",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/wechuli/azure-text-to-speech.git",
+  "author": "Wechuli <wechulipaul@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^8.1.0",
+    "readline-sync": "^1.4.10",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "xmlbuilder": "^13.0.2"
+  }
+}
